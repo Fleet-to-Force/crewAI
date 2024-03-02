@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+google-api-python-client
+google-auth
+beautifulsoup4
+lxml
+tensorflow  # or torch torchvision torchaudio, depending on your preference
+python-dotenv
